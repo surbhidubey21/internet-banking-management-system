@@ -1,4 +1,4 @@
-🏦 Internet Banking Management System
+🏦 Internet Banking Management System - Java Web Application -JSP_SERVELET_JDBC
 -A secure and user-friendly web-based banking application developed using Java, JSP, Servlets, JDBC, and MySQL. This system enables customers and administrators to efficiently manage banking operations such as account handling, transactions, and authentication in a real-world banking workflow.
 
 📌 Features:
